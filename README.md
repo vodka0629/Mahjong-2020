@@ -60,8 +60,9 @@ How to play
 
 How to test
 -------------
+```bash
 python test.py
-
+```
 
 About Mahjong Game
 -------------
