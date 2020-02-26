@@ -1,0 +1,5 @@
+Pillow==7.0.0
+pygame==1.9.6
+six==1.14.0
+transitions==0.7.2
+treelib==1.5.5
