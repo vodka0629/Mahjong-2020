@@ -24,20 +24,20 @@ How to Install
 
 1. Install Python 3.7.6 (recommended) from [here](https://www.python.org/download/releases/)
 
-2. Install PyGame 1.9.6
-from [here](http://www.pygame.org/download.shtml),
-or pip install pygame=1.9.6
-
-3. Install other libs
-```bash
-pip install -r requirements.txt
-```
-
-4. Clone the repository:
+2. Clone the repository:
 ```bash
 git clone https://github.com/vodka0629/mahjong-2020
 ```
 or download as zip and extract.
+
+3. Install PyGame 1.9.6
+from [here](http://www.pygame.org/download.shtml),
+or pip install pygame=1.9.6
+
+4. Install other libs
+```bash
+pip install -r requirements.txt
+```
 
 5. In the directory run
 ```bash
