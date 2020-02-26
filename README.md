@@ -29,16 +29,20 @@ from [here](http://www.pygame.org/download.shtml),
 or pip install pygame=1.9.6
 
 3. Install other libs
+```bash
 pip install -r requirements.txt
+```
 
 4. Clone the repository:
 ```bash
-git clone https://github.com/vodka0629/mahjong2020
+git clone https://github.com/vodka0629/mahjong-2020
 ```
 or download as zip and extract.
 
 5. In the directory run
+```bash
 python app.py
+```
 
 How to play
 -------------
