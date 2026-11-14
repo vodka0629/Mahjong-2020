@@ -2,6 +2,11 @@ Mahjong 2020
 ===============
 A solo 2D graphics Mahjong Game using [python-pygame][pygame]
 
+> **Archived (November 2026)** — A practice project from 2019–2020, written while I was
+> teaching myself Python. No longer maintained.
+> The Chinese Standard Mahjong win detection and scoring logic lives in `mahjong/`
+> and remains free to use under the MIT license.
+
 Features
 ---------------------------
 - 1 Player / 3 Bots (choice from 7 chinese ancient beauties, full dressed)
